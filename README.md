@@ -145,9 +145,13 @@ See `UPDATE_TOKEN_MANUAL.md` in this repository for a detailed step‑by‑step 
 
 ---
 
-## License
+## License / Disclaimer
 
-Add a license here (e.g. MIT) if you want others to be able to reuse this code more freely.
+This code is completely free to use, modify and distribute without any restrictions.
+
+**Disclaimer:**  
+The software is provided “as is”, without warranty of any kind, express or implied.  
+The author is not responsible for any damage, data loss, security incidents or other consequences that may arise from using this code, whether directly or indirectly.
 
 ---
 
@@ -298,6 +302,10 @@ export GH_PAT_SH_SCAN=github_pat_...
 
 ---
 
-## Ліцензія
+## Ліцензія / Відмова від відповідальності
 
-Додай файл ліцензії (наприклад, MIT), якщо хочеш, щоб інші могли вільно використовувати цей код.
+Цей код повністю вільний для використання, зміни та розповсюдження без будь‑яких обмежень.
+
+**Відмова від відповідальності:**  
+Програмне забезпечення надається «як є», без будь‑яких гарантій, явних чи неявних.  
+Автор не несе відповідальності за будь‑які пошкодження, втрату даних, інциденти безпеки чи інші наслідки, що можуть виникнути в результаті використання цього коду — як безпосередньо, так і опосередковано.
